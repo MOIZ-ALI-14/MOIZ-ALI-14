@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Moiz Ali<br>🎓 Computer Science Student<br>🤖 Aspiring AI Engineer<br>🐍 Python Developer<br>🧩 Passionate Problem Solver<br>🎬 Learning Video Editing<br>🚀 Building real-world projects while learning AI, one step at a time.
+👋 Hi, I'm Moiz Ali<br>🎓 Computer Science Student<br>🤖 Aspiring AI Engineer<br>🐍 Python Developer<br>🧩 Passionate Problem Solver<br>🚀 Building real-world projects while learning AI, one step at a time.
 
 
 ## 🌐 Socials:
